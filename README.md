@@ -11,4 +11,4 @@ I have made a few changes to my GitHub repo [p5](https://github.com/AliabbasMerc
 * The file [`PShape.py`](https://github.com/AliabbasMerchant/p5/blob/master/p5/core/PShape.py) is a prototype of the PShape module to be made during the coding period in GSoc 2018. The prototype currently supports dynamic shape creation.
 
 The working example of PShape and TimeDate can be found here: [link] (https://github.com/AliabbasMerchant/p5/blob/master/PShape_Demo.py)  
-Also, I have created a Processing (Java) example to demonstarte the similarities: [link] (https://github.com/AliabbasMerchant/p5/tree/master/PShape_Demo)
+Also, I have created a Processing (Java) example to demonstrate the similarities: [link] (https://github.com/AliabbasMerchant/p5/tree/master/PShape_Demo)
