@@ -12,3 +12,10 @@ I have made a few changes to my GitHub repo [p5](https://github.com/AliabbasMerc
 
 The working example of PShape and TimeDate can be found here: [link] (https://github.com/AliabbasMerchant/p5/blob/master/PShape_Demo.py)  
 Also, I have created a Processing (Java) example to demonstrate the similarities: [link] (https://github.com/AliabbasMerchant/p5/tree/master/PShape_Demo)
+
+The demo videos for PShape can be found here: [link](https://drive.google.com/drive/folders/15PyKUEQSN6_HJeLRgawOSQtcdFkzzb84?usp=sharing)  
+The videos in the Google Drive folder are:  
+1. [PShapeMouse](https://drive.google.com/open?id=18tj6YxRCF_0vsteMJ6TBIt_ey6V0VDCL): A vertex of the PShape is dynamically edited, to follow the mouse movements.
+2. [PShapeRandom](https://drive.google.com/open?id=1Eo6Yv5BtSjba89UeEiHl6fg8S7VLSyUy): A vertex of the PShape is dynamically edited, and assigned random co-ordinates
+3. [PShapeTimeVarying](https://drive.google.com/open?id=1ge9v334IsC0xuAsClwXHxKCfQP-_UiGC): A vertex of the PShape is dynamically edited, to move linearly with time (Also, this uses the `millis()` function of the `TimeDate` module).  
+All of the above videos contain two programs each, one made in p5py (using the code in my repo [p5](https://github.com/AliabbasMerchant/p5)) (the window named p5) and the other made in Processing-Java (the window named PShape_Demo), so as to demonstrate the similarities between the two.
